@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "publication_year": 1925,
+    "ISBN": "9780743273565"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publication_year": 1960,
+    "ISBN": "9780061120084"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publication_year": 1949,
+    "ISBN": "9780451524935"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "publication_year": 1813,
+    "ISBN": "9780141439518"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publication_year": 1951,
+    "ISBN": "9780316769488"
+  },
+  {
+    "id": 6,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "publication_year": 1851,
+    "ISBN": "9781503280786"
+  },
+  {
+    "id": 7,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical",
+    "publication_year": 1869,
+    "ISBN": "9781853260629"
+  },
+  {
+    "id": 8,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic",
+    "publication_year": "8th century BC",
+    "ISBN": "9780140268867"
+  },
+  {
+    "id": 9,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "publication_year": 1932,
+    "ISBN": "9780060850524"
+  },
+  {
+    "id": 10,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "genre": "Epic",
+    "publication_year": 1320,
+    "ISBN": "9780140448955"
+  },
+  {
+    "id": 11,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Romance",
+    "publication_year": 1847,
+    "ISBN": "9780142437209"
+  },
+  {
+    "id": 12,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical",
+    "publication_year": 1880,
+    "ISBN": "9780374528379"
+  },
+  {
+    "id": 13,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Romance",
+    "publication_year": 1847,
+    "ISBN": "9780141439556"
+  },
+  {
+    "id": 14,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "Romance",
+    "publication_year": 1877,
+    "ISBN": "9780140449174"
+  },
+  {
+    "id": 15,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical",
+    "publication_year": 1866,
+    "ISBN": "9780143058144"
+  },
+  {
+    "id": 16,
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "genre": "Realism",
+    "publication_year": 1856,
+    "ISBN": "9780140449129"
+  },
+  {
+    "id": 17,
+    "title": "The Iliad",
+    "author": "Homer",
+    "genre": "Epic",
+    "publication_year": "8th century BC",
+    "ISBN": "9780140275360"
+  },
+  {
+    "id": 18,
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "genre": "Satire",
+    "publication_year": 1961,
+    "ISBN": "9781451626650"
+  },
+  {
+    "id": 19,
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "genre": "Fiction",
+    "publication_year": 1926,
+    "ISBN": "9780743297332"
+  },
+  {
+    "id": 20,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "publication_year": 1897,
+    "ISBN": "9780141439846"
+  },
+  {
+    "id": 21,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Fiction",
+    "publication_year": 1939,
+    "ISBN": "9780143039433"
+  },
+  {
+    "id": 22,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publication_year": 1937,
+    "ISBN": "9780547928227"
+  },
+  {
+    "id": 23,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "publication_year": 1953,
+    "ISBN": "9781451673319"
+  },
+  {
+    "id": 24,
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "genre": "Fiction",
+    "publication_year": 1861,
+    "ISBN": "9780141439563"
+  },
+  {
+    "id": 25,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Philosophical",
+    "publication_year": 1890,
+    "ISBN": "9780141439570"
+  },
+  {
+    "id": 26,
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "genre": "Fiction",
+    "publication_year": 1952,
+    "ISBN": "9780684801223"
+  },
+  {
+    "id": 27,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Historical",
+    "publication_year": 1862,
+    "ISBN": "9780140444308"
+  },
+  {
+    "id": 28,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Historical",
+    "publication_year": 1859,
+    "ISBN": "9780141439600"
+  },
+  {
+    "id": 29,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "Fantasy",
+    "publication_year": 1865,
+    "ISBN": "9780141439761"
+  },
+  {
+    "id": 30,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": "Adventure",
+    "publication_year": 1605,
+    "ISBN": "9780060934347"
+  }
+]
