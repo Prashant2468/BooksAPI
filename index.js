@@ -6,7 +6,7 @@ const PORT = 5000;
 
 app.use(cors()); // Enable CORS
 
-app.get("/books", (req, res) => {
+app.get("/", (req, res) => {
   res.json(books);
 });
 // app.get("/books/:id", (req, res) => {
