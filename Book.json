@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "genre": "Fiction",
-    "publication_year": 1925,
+    "title": "Object Oriented Programming",
+    "author": "Jitu Sir",
+    "genre": "Programming",
+    "publication_year": 2024,
     "ISBN": "9780743273565"
   },
   {
