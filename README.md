@@ -43,5 +43,5 @@ An Express.js-based RESTful API for managing a collection of books. This API all
 
 ## Can also used direct Link to Fetch Books From API
 
-  - [https://booksapi-c51a.onrender.com/books](https://booksapi-c51a.onrender.com/books)
+  - [https://booksapi-c51a.onrender.com](https://booksapi-c51a.onrender.com)
 
