@@ -45,3 +45,7 @@ An Express.js-based RESTful API for managing a collection of books. This API all
 
   - [https://booksapi-c51a.onrender.com](https://booksapi-c51a.onrender.com)
 
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_prashant82) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i-am-patil-prashant) 
+
+
